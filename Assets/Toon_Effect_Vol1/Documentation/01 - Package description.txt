@@ -1,0 +1,42 @@
+Toon Effect Volume 1 : Package description
+============================================
+
+In Toon Effect Volume 1 you will find 31 high quality types of 32 to 64 sprite sheets (bonus burst, shield, smoke…).
+Each spritesheet is perfect for creating mobile or tablet lightwork effects and work with pseudo 2D and 3D games.
+
+Toon Effect Volume 1 comes with a fun C# script to lead and setup the effects. You can combine each effects together
+to create multiple possibility!
+
+- 1 Vortex.
+- 1 Spinner.
+- 4 Smoke puff.
+- 4 Shield effect.
+- 1 Pain effect.
+- 1 Implode effect.
+- 3 Hotspot effect.
+- 3 Heal effect.
+- 3 Death effect.
+- 9 Bonus burst effect.
+- 1 Blast effect alone.
+
+Easy and ready to use.
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
